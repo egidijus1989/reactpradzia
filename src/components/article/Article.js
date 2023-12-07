@@ -1,5 +1,5 @@
-import Button from "react-bootstrap";
-import { Card } from "react-bootstrap";
+
+import { Card, Button } from "react-bootstrap";
 
 const Article = () =>{
     return(
@@ -16,4 +16,4 @@ const Article = () =>{
       </Card> 
     );
 }
-export default article
+export default Article
